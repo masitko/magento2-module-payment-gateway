@@ -21,4 +21,5 @@
             "Magento\\SamplePaymentGateway\\": ""
         }
     }
+    "minimum-stability": "alpha",
 }
