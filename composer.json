@@ -20,6 +20,6 @@
         "psr-4": {
             "Magento\\SamplePaymentGateway\\": ""
         }
-    }
+    },
     "minimum-stability": "alpha",
 }
