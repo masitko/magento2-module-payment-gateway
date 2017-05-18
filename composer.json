@@ -9,6 +9,7 @@
         "magento/framework": "100.*",
         "magento/magento-composer-installer": "*"
     },
+
     "type": "magento2-module",
     "version": "100.0.3",
     "license": [
